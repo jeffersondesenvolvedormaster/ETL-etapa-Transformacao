@@ -60,7 +60,7 @@ Isto é esperado quando se despivotar - cada combinação de cidade/mês/ano vir
 7. Alteração de tipos de dados ✓
   ✓ Coluna Data como tipo Data
   ✓ Coluna Quantidade como numero inteiro
-  ✓ Coluna Faturamento como deciaml fixo
+  ✓ Coluna Faturamento como Float decimal fixo
    
 
 ### Etapas de Transformação Aplicadas (visíveis no painel direito)
