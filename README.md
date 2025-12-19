@@ -18,7 +18,7 @@ Cada cidade tem múltiplas linhas com "Quantidade" e "Faturamento", mas essas in
 4. Estrutura Desnormalizada
 A tabela está em formato "matriz cruzada" (pivot table), com meses como colunas (Janeiro, Fevereiro, Março, etc.). Para Power BI, os dados devem estar em formato "tall and narrow", onde cada linha representa um registro único, com meses em uma coluna de dimensão separada.
 
-5. Coluna desnecessária pois será gerada à partir da agregação dos valores das outras colunas em formula DAX gernado melhor performance nos dados.
+5. 'Coluna' desnecessária pois será gerada à partir da agregação dos valores das outras colunas em formula DAX gernado melhor performance nos dados.
 
 
 
