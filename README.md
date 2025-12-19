@@ -2,6 +2,8 @@
 Demonstração de correções no Dataset 
 
 <img width="1360" height="768" alt="Transformação ETL" src="https://github.com/user-attachments/assets/9aa1d948-9746-4655-84f2-955547e30ad7" />
+<img width="1199" height="656" alt="Itens transformação" src="https://github.com/user-attachments/assets/503fc2f0-6da2-4166-90de-87b449209cf7" />
+
 
 ### Análise de Boas Práticas de Modelagem para Power BI
 Observando a planilha "Base Vendas.xlsx", identifiquei diversos problemas que violam boas práticas de modelagem tabular para Power BI:
