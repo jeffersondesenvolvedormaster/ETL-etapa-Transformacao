@@ -42,26 +42,24 @@ A tabela agora segue o padrão recomendado para Power BI.
 Antes: Não existia coluna de data explícita
 Depois: Coluna "Data" criada (formato: 01/04/2022, 01/08/2022, etc.) -  combinando ano e mês para geração de ID data.
 
-4. Coluna "Ano" Explicitada ✓
-Antes: Ano misturado com os dados ou em coluna sem contexto
-Depois: Coluna "Ano" dedicada com valor "2022"
-
-5. Eliminação de Dados Duplicados/Mistos ✓
+4. Eliminação de Dados Duplicados/Mistos ✓
 Antes: Dois períodos de dados misturados (2022 e outro período)
 Depois: Dados consolidados em uma única estrutura coerente
 
-6. Remoção de Colunas Irrelevantes ✓
-Antes: Coluna "A" com valores sem significado ("s", "2022")
-Depois: Coluna removida - não aparece mais
-
-7. Consolidação de "Indicador" ✓
+5. Consolidação de "Indicador" ✓
 Antes: Linhas alternadas entre "Quantidade" e "Faturamento" em coluna "Indicador"
 Depois: Convertidas em colunas separadas "Quantidade" e "Faturamento"
 
-8. Aumento de Linhas (Normalização)
+6. Aumento de Linhas (Normalização)
 Antes: ~31 linhas (com estrutura de pivot)
 Depois: 360 linhas (conforme mostrado: "6 COLUNAS, 360 LINHAS")
 Isto é esperado quando se despivotar - cada combinação de cidade/mês/ano vira uma linha.
+
+7. Alteração de tipos de dados ✓
+   coluna Data como tipo Data
+   coluna Quantidade como numero inteiro
+   coluna Faturamento como deciaml fixo
+   
 
 ### Etapas de Transformação Aplicadas (visíveis no painel direito)
 
