@@ -7,7 +7,7 @@
 
 
 
-Observando a planilha "Base Vendas.xlsx", identifiquei diversos problemas que violam boas práticas de modelagem tabular para Power BI:
+### Observando a planilha "Base Vendas.xlsx", identifiquei diversos problemas que violam boas práticas de modelagem tabular para Power BI:
 
 1. Coluna com mesclagem fora do padrão de modelagem, espaços em branco e sem titulo.
    
