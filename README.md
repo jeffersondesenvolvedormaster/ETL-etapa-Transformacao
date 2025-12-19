@@ -5,12 +5,12 @@ Demonstração de correções no Dataset
 
 
 
-### Análise de Boas Práticas de Modelagem para Power BI
+
 Observando a planilha "Base Vendas.xlsx", identifiquei diversos problemas que violam boas práticas de modelagem tabular para Power BI:
 
-1. Coluna com mesclagem fora do padrão de modelagem, espaçoes em branco e sem titulo.
+1. Coluna com mesclagem fora do padrão de modelagem, espaços em branco e sem titulo.
    
-2. Espaços em branco entre cidades devido a tabela secundária gerando sobreposição de dados
+2. Espaços em branco entre na coluna cidade devido a tabela secundária gerando sobreposição de dados
 
 3. Falta de Normalização - Múltiplos Indicadores por Linha
 Cada cidade tem múltiplas linhas com "Quantidade" e "Faturamento", mas essas informações não possuem uma coluna separada de "Tipo de Indicador" ou "Métrica". Isso dificulta a criação de relacionamentos.
