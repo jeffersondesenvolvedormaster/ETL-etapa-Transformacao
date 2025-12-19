@@ -58,9 +58,9 @@ Depois: 360 linhas (conforme mostrado: "6 COLUNAS, 360 LINHAS")
 Isto é esperado quando se despivotar - cada combinação de cidade/mês/ano vira uma linha.
 
 7. Alteração de tipos de dados ✓
-   coluna Data como tipo Data
-   coluna Quantidade como numero inteiro
-   coluna Faturamento como deciaml fixo
+  ✓ Coluna Data como tipo Data
+  ✓ Coluna Quantidade como numero inteiro
+  ✓ Coluna Faturamento como deciaml fixo
    
 
 ### Etapas de Transformação Aplicadas (visíveis no painel direito)
