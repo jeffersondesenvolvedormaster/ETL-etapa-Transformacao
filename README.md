@@ -1,7 +1,9 @@
 ## ETL- Transformação
 ### Análise Comparativa: Transformações (Antes vs. Depois)
 
- <span style="color:red;"> Antes:</span>
+ <span style="color:red;">
+ Antes:
+ </span>
  <img width="993" height="570" alt="Imagem ETL" src="https://github.com/user-attachments/assets/263bd1c9-7eef-4cf5-a01d-0a991f8f7e89" />
 
 
