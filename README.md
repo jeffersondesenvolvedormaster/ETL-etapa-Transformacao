@@ -1,7 +1,7 @@
 ## ETL- Transformação
 ### Análise Comparativa: Transformações Aplicadas (Antes vs. Depois)
 
-
+## Antes:
 <img width="993" height="570" alt="Imagem ETL" src="https://github.com/user-attachments/assets/263bd1c9-7eef-4cf5-a01d-0a991f8f7e89" />
 
 
@@ -22,7 +22,7 @@ A tabela está em formato "matriz cruzada" (pivot table), com meses como colunas
 5. 'Coluna' desnecessária pois será gerada à partir da agregação dos valores das outras colunas em formula DAX gernado melhor performance nos dados.
 
    ## Transformação realizada no Power Query:
-   
+ ## Depois:  
 <img width="1360" height="768" alt="Transformações realizadas ETL" src="https://github.com/user-attachments/assets/0394a456-9144-41c6-b1ff-01191239bb42" />
 
 
