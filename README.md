@@ -38,7 +38,7 @@ Depois: Estrutura estreita com apenas 6 colunas: Data, Mês, Ano, Cidade, Quanti
 A tabela agora segue o padrão recomendado para Power BI.
 3. Coluna de Data Criada ✓
 Antes: Não existia coluna de data explícita
-Depois: Coluna "Data" criada (formato: 01/04/2022, 01/08/2022, etc.) - provavelmente combinando ano e mês
+Depois: Coluna "Data" criada (formato: 01/04/2022, 01/08/2022, etc.) -  combinando ano e mês para geração de ID data.
 4. Coluna "Ano" Explicitada ✓
 Antes: Ano misturado com os dados ou em coluna sem contexto
 Depois: Coluna "Ano" dedicada com valor "2022"
