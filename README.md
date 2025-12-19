@@ -20,6 +20,9 @@ Cada cidade tem múltiplas linhas com "Quantidade" e "Faturamento", mas essas in
 A tabela está em formato "matriz cruzada" (pivot table), com meses como colunas (Janeiro, Fevereiro, Março, etc.). Para Power BI, os dados devem estar em formato "tall and narrow", onde cada linha representa um registro único, com meses em uma coluna de dimensão separada.
 
 5. 'Coluna' desnecessária pois será gerada à partir da agregação dos valores das outras colunas em formula DAX gernado melhor performance nos dados.
+
+   ## Transformação realizada no Power Query:
+   
 <img width="1360" height="768" alt="Transformações realizadas ETL" src="https://github.com/user-attachments/assets/0394a456-9144-41c6-b1ff-01191239bb42" />
 
 
