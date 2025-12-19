@@ -26,7 +26,7 @@ A tabela está em formato "matriz cruzada" (pivot table), com meses como colunas
 <img width="1360" height="768" alt="Transformações realizadas ETL" src="https://github.com/user-attachments/assets/0394a456-9144-41c6-b1ff-01191239bb42" />
 
 
-## Comparando a estrutura original com a transformação realizada no Power Query, identifiquei as seguintes mudanças:
+## Transformação realizada no Power Query, Feito as seguintes mudanças:
 
 1. Despivotamento de Colunas (Unpivot) ✓
 Antes: Meses como colunas (Janeiro, Fevereiro, Março, Abril, Maio, Junho, Julho, Agosto, Setembro, Outubro, Novembro, Dezembro)
