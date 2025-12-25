@@ -105,7 +105,7 @@ As transformações seguem exatamente as recomendações de boas práticas!
 
 # Proximo 'passo'
 
-Agregar a Tabela as demais do dataset, realizar modelagem separando tabela calendário e Fato x Dimensão
+Agregar a Tabela as outras do dataset, realizar modelagem separando tabela calendário e Fato x Dimensão
 
 
 
