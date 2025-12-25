@@ -103,7 +103,7 @@ A tabela agora está muito mais adequada para modelagem em Power BI, com:
 
 As transformações seguem exatamente as recomendações de boas práticas!
 
-# Proximo passo
+# Proximo 'passo'
 
 Agregar a Tabela as demais do dataset, realizar modelagem separando tabela calendário e Fato x Dimensão
 
